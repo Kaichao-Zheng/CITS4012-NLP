@@ -1,0 +1,10 @@
+# Virtual Environment
+*venv
+
+# Specification and Report
+*.pdf
+
+# Source Datasets
+test.json
+train.json
+validation.json
