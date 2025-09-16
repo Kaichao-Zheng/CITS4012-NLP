@@ -21,20 +21,6 @@
 git clone https://github.com/Kaichao-Zheng/CITS4012-NLP.git
 ```
 
-### Create virtural environment
-
-```bash
-cd CITS4012-NLP
-python -m venv venv
-```
-
-### Activate virtural environment
-
-```bash
-venv\Scripts\activate		# Windows PowerShell
-source venv/bin/activate	# macOS/Linux
-```
-
 ### Enable `.ipynb` version control using `nbstripout`
 
 * `nbstripout`主要用于commit时自动清理`.ipynb`的输出，避免污染GitHub远程库
