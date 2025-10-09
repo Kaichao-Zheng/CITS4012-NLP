@@ -6,6 +6,14 @@
 > * 定稿后将公开这个库，简历里能多水一行，故而**请使用 all in English commits**
 > * 需确保push的`.ipynb`不包含示例输出，以防污染GitHub远程库
 
+## 🤝Collaborators
+
+| Uni ID   | Student Name  | GitHub Username                                   |
+| -------- | ------------- | ------------------------------------------------- |
+| 24141207 | Kaichao Zheng | [Kaichao-Zheng](https://github.com/Kaichao-Zheng) |
+| 24645175 | Ziqi Meng     | [jiongge39](https://github.com/jiongge39)         |
+| 23998001 | Yanglei Yuan  | [LeoYuan0225](https://github.com/LeoYuan0225)     |
+
 ## 🚀Getting Started
 
 [![想搞 coding](https://img.shields.io/badge/%E6%83%B3%E6%90%9E%20coding-white?logo=jupyter&logoColor=white&color=%23F37626)](#work-on-jupyter-notebook) [![想搞 report](https://img.shields.io/badge/%E6%83%B3%E6%90%9E%20report-white?logo=overleaf&logoColor=white&color=%2347A141)](#work-on-latex-report)
