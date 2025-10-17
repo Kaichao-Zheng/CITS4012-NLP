@@ -1,4 +1,6 @@
-# CITS4012-NLP
+# CITS4012 NLP – An Ablation Study on NLI Classifier Attention  
+
+In this project, we studies how attention mechanisms affect Natural Language Inference (NLI) on science-specific data. We implemented a vanilla Bi-LSTM, self-attention Bi-LSTM, dual-attention Bi-LSTM, and a Transformer-based model to analyze both attention existence and encoder architecture ablations.
 
 ## 🤝Collaborators
 
@@ -75,7 +77,7 @@ Press **CTRL+C** to stop local web server.
 
 ### Overleaf – The co-editing platform
 
-[Click to open the live editor](https://cn.overleaf.com/3727936337rsqcchdtcjbk#327efe)
+[Click to view the raw LaTeX report](https://www.overleaf.com/read/tctdwfhjncdx#d05cbd)
 
 ### File Structure
 
@@ -91,6 +93,6 @@ Remove unnecessary files based on the specified [ACL template](https://github.co
 
 ### Report Content
 
-I have integrated the [project specification](https://lms.uwa.edu.au/bbcswebdav/pid-4638361-dt-content-rid-56793887_1/xid-56793887_1) into the specified ACL template, scroll down to view it.
+In early stage of this project, we integrated the [project specification](https://lms.uwa.edu.au/bbcswebdav/pid-4638361-dt-content-rid-56793887_1/xid-56793887_1) into the ACL template, as shown in the screenshot below.
 
 ![overleaf](img/overleaf.png)
